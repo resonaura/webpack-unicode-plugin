@@ -5,6 +5,7 @@
 [![Webpack](https://img.shields.io/badge/Webpack-Plugin-8DD6F9.svg?logo=webpack&logoColor=black)](package.json)
 [![npm](https://img.shields.io/badge/npm-webpack--unicode--plugin-CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/package/webpack-unicode-plugin)
 
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/resonaura)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resonaura)
 
 The `webpack-unicode-plugin` helps ensure your JavaScript files maintain proper Unicode encoding when bundled with Webpack. This is especially useful in scenarios where character encoding might get mixed up during the build process, leading to unexpected characters in your output files.
